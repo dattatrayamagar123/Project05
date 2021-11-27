@@ -1,0 +1,20 @@
+Class is collection of object where we can declare data members, member of function, constructor and block.
+Syntax: 
+public class BasicJava {
+
+}
+Case sensitivity:
+-It is case sensitive
+-There is difference between “firstprogram” And “FirstProgram”
+System.out.println(" ")  and System.out.print(" ") :
+-There is difference System.out.println(" ")  and System.out.print(" ").
+System.out.println(" ") :- First print and cursor moves to nexline.
+System.out.print(" "):-Print on same line in console
+
+Terminator(;) :-
+-close syntax or end line
+-Except method, class, constructor ; is used. 
+-It should used at end of every line except curly braces
+
+
+
